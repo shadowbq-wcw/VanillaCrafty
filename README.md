@@ -28,7 +28,7 @@ These mods run in the background and boost performance without changing gameplay
 
 ---
 
-## 🎮 Simple Plug-and-Play Mods
+## Simple Plug-and-Play Mods
 
 These mods are easy to use and work out of the box.
 
