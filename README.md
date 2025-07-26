@@ -1,17 +1,12 @@
 # 🧩 Minecraft Mods List (Fabric 1.21.7)
 
-## 📂 Sections
+## 📂 Jump Links
 
-- [Jump to Background Mods](background--optimization-mods)
-- [🎮 Simple Plug-and-Play Mods](#simple-plug-and-play-mods)
-- [Jump to Command-Based Mods](#command-based-mods)
-- [🧠 Advanced / Complicated Mods](#advanced--complicated-mods)
-- [🔧 Utility & Compatibility Mods](#utility--compatibility-mods)
-- [📌 Coord Finder Commands](https://github.com/shadowbq-wcw/VanillaCrafty/edit/main/README.md#-coord-finder-commands)
-- [🎵 Audio Player Commands](#audio-player-commands)
-- [👥 Voice Chat Group Commands](#simple-voice-chat-enhanced-groups)
-- [📦 Resource Pack Hashing](#run-time-hash-updater-resource-pack-updater)
-
+- [Background Mods](background--optimization-mods)
+- [Simple Plug-and-Play Mods](simple-plug-and-play-mods)
+- [Command-Based Mods](command-based-mods)
+- [Advanced / Complicated Mods](advanced--complicated-mods)
+- [Utility & Compatibility Mods](utility--compatibility-mods)
 ---
 
 ## 🛠 Background / Optimization Mods
