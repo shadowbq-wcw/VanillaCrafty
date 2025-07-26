@@ -1,12 +1,5 @@
-# 🧩 Minecraft Mods List (Fabric 1.21.7)
+# 🧩 Minecraft Mods List VanillaCrafty (Fabric 1.21.7)
 
-## 📂 Jump Links
-
-- [Background Mods](background--optimization-mods)
-- [Simple Plug-and-Play Mods](simple-plug-and-play-mods)
-- [Command-Based Mods](command-based-mods)
-- [Advanced / Complicated Mods](advanced--complicated-mods)
-- [Utility & Compatibility Mods](utility--compatibility-mods)
 ---
 
 ## 🛠 Background / Optimization Mods
