@@ -4,7 +4,7 @@
 
 - [Jump to Background Mods](background--optimization-mods)
 - [🎮 Simple Plug-and-Play Mods](#simple-plug-and-play-mods)
-- [💬 Command-Based Mods](#command-based-mods)
+- [Jump to Command-Based Mods](#command-based-mods)
 - [🧠 Advanced / Complicated Mods](#advanced--complicated-mods)
 - [🔧 Utility & Compatibility Mods](#utility--compatibility-mods)
 - [📌 Coord Finder Commands](https://github.com/shadowbq-wcw/VanillaCrafty/edit/main/README.md#-coord-finder-commands)
@@ -39,7 +39,7 @@ These mods are easy to use and work out of the box.
 
 ---
 
-## 💬 Command-Based Mods
+## Command-Based Mods
 
 These mods are used via `/commands` in chat.
 
