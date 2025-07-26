@@ -1,6 +1,5 @@
-## <p style="color: orange;">Coord Finder commands </p>
-test
-
+## Coord Finder commands
+<p style="color: orange; font-weight: bold;">Useful commands for player and location tracking</p>
 ### [modrinth page](https://modrinth.com/mod/coord-finder)
 
 ```/coords player <playername>``` shows the location of the specified player.
