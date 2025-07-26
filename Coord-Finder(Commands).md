@@ -1,4 +1,4 @@
-## <font color="orange">Cord Finder commands:</font>
+## <font color="orange">Coord Finder commands:</font>
 
 
 ### [modrinth page](https://modrinth.com/mod/coord-finder)
